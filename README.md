@@ -38,16 +38,6 @@ which are both under active development.
 [Go](http://golang.org) 1.8 or newer.
 
 ## Installation
-
-#### Windows - MSI Available
-
-https://github.com/btcsuite/Goldchain/releases
-
-#### Linux/BSD/MacOSX/POSIX - Build from Source
-
-- Install Go according to the installation instructions here:
-  http://golang.org/doc/install
-
 - Ensure Go was installed properly and is a supported version:
 
 ```bash
